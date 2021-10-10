@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeMBHLro2bed5oidCPUSgjaCS6XkxPdJHXp9k0l/UT67VZn2apYThNzj5+ZQCemtidOKaXljU1xLpKUpFvAfkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\services\\Atmosphere.Catalogo.API\\Atmosphere.Catalogo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj",
+        "projectName": "Atmosphere.Core",
+        "projectPath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj",
+        "packagesPath": "C:\\Users\\jeff_\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeff_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
