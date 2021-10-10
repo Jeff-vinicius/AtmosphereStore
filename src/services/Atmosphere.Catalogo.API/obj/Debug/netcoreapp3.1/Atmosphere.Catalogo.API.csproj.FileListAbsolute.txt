@@ -17,3 +17,4 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netco
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.pdb
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.genruntimeconfig.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.csprojAssemblyReference.cache
