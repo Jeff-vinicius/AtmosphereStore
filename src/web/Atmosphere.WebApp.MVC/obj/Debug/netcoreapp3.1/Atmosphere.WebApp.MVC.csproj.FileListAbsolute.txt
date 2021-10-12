@@ -316,7 +316,6 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -351,3 +350,7 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.pdb
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.genruntimeconfig.cache
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Login.cshtml.g.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Registro.cshtml.g.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
