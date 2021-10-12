@@ -342,9 +342,6 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.csproj.CoreCompileInputs.cache
-C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
-C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.Views.pdb
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.csproj.CopyComplete
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.dll
@@ -354,3 +351,14 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Registro.cshtml.g.cs
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
