@@ -362,3 +362,4 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.csproj.CoreCompileInputs.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs

@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Atmosphere.WebApp.MVC.Controllers
 {
-    public class IdentidadeController : Controller
+    public class IdentidadeController : MainController
     {
         private readonly IAutenticacaoService _autenticacaoService;
 
@@ -37,7 +37,7 @@ namespace Atmosphere.WebApp.MVC.Controllers
             // API - Registro
             var resposta = await _autenticacaoService.Registro(usuarioRegistro);
 
-            //if (false) return View(usuarioRegistro);
+            if (ResponsePossuiErros(resposta.ResponseResult)) return View(usuarioRegistro);
 
             // Realizar login 
             await RealizarLogin(resposta);
@@ -62,7 +62,7 @@ namespace Atmosphere.WebApp.MVC.Controllers
             // API - Login
             var resposta = await _autenticacaoService.Login(usuarioLogin);
 
-            //if (false) return View(usuarioLogin);
+            if (ResponsePossuiErros(resposta.ResponseResult)) return View(usuarioLogin);
 
             // Realizar login 
             await RealizarLogin(resposta);
@@ -74,6 +74,7 @@ namespace Atmosphere.WebApp.MVC.Controllers
         [Route("sair")]
         public async Task<IActionResult> Logout()
         {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
             return RedirectToAction("Index", "Home");
         }
 
