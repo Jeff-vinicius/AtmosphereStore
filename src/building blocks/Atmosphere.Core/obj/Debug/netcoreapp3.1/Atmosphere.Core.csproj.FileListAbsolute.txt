@@ -7,3 +7,4 @@ C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\netcor
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\netcoreapp3.1\Atmosphere.Core.csproj.CoreCompileInputs.cache
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\netcoreapp3.1\Atmosphere.Core.dll
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\netcoreapp3.1\Atmosphere.Core.pdb
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\netcoreapp3.1\Atmosphere.Core.csproj.AssemblyReference.cache
