@@ -1,7 +1,5 @@
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.csprojAssemblyReference.cache
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.AssemblyInfoInputs.cache
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.AssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.RazorTargetAssemblyInfo.cache
@@ -74,3 +72,5 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\net
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.csproj.CoreCompileInputs.cache
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig

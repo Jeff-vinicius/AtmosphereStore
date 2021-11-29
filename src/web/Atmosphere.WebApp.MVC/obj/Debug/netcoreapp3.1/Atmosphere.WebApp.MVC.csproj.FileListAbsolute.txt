@@ -1,7 +1,5 @@
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.csprojAssemblyReference.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.AssemblyInfoInputs.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.AssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.RazorAssemblyInfo.cache
@@ -19,7 +17,6 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.RazorTargetAssemblyInfo.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.RazorTargetAssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\staticwebassets\Atmosphere.WebApp.MVC.StaticWebAssets.Manifest.cache
-C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\staticwebassets\Atmosphere.WebApp.MVC.StaticWebAssets.xml
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.exe
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.deps.json
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.runtimeconfig.json
@@ -363,3 +360,5 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.GeneratedMSBuildEditorConfig.editorconfig

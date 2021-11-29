@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Atmosphere.Pedido.API
+build_property.ProjectDir = C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\

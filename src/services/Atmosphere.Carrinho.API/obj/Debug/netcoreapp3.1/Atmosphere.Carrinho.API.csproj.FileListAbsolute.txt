@@ -1,12 +1,9 @@
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.csprojAssemblyReference.cache
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.AssemblyInfoInputs.cache
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.AssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.RazorTargetAssemblyInfo.cache
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\staticwebassets\Atmosphere.Carrinho.API.StaticWebAssets.Manifest.cache
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\staticwebassets\Atmosphere.Carrinho.API.StaticWebAssets.xml
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\bin\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.exe
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\bin\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.deps.json
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\bin\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.runtimeconfig.json
@@ -18,3 +15,5 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netco
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.pdb
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.genruntimeconfig.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Carrinho.API\obj\Debug\netcoreapp3.1\Atmosphere.Carrinho.API.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94cb9d87-978c-40f3-8e90-5bed586ee0a3": {
+      "ProjectGuid": "94cb9d87-978c-40f3-8e90-5bed586ee0a3",
+      "DisplayName": "Atmosphere.WebApp.MVC",
+      "ColorIndex": 0
+    },
+    "dc488677-624c-4e16-8815-b73d97ab709b": {
+      "ProjectGuid": "dc488677-624c-4e16-8815-b73d97ab709b",
+      "DisplayName": "Atmosphere.Catalogo.API",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

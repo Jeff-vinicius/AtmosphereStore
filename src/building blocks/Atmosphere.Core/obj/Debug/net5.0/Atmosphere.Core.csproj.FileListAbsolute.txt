@@ -1,0 +1,12 @@
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\bin\Debug\net5.0\Atmosphere.Core.deps.json
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\bin\Debug\net5.0\Atmosphere.Core.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\bin\Debug\net5.0\ref\Atmosphere.Core.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\bin\Debug\net5.0\Atmosphere.Core.pdb
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\Atmosphere.Core.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\Atmosphere.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\Atmosphere.Core.AssemblyInfoInputs.cache
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\Atmosphere.Core.AssemblyInfo.cs
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\Atmosphere.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\Atmosphere.Core.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\ref\Atmosphere.Core.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.Core\obj\Debug\net5.0\Atmosphere.Core.pdb

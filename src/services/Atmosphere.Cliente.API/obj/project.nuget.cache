@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MLQZ2vHqNQPu1gtBUQA1Mpy7ujOWNSViwvyy97C1KWcJUyLrthmcZnpA9qdyOrvedUNdsVqC6XQmt1eWVI7NPw==",
+  "dgSpecHash": "PoJ/3x882emtmQqDpYuCxmHosvHcu+UICz9YOqlVIvK+WtxIm8Cf1J5dSUqWghfAVNEFE/4dkb61peIS6WP21Q==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\services\\Atmosphere.Cliente.API\\Atmosphere.Cliente.API.csproj",
   "expectedPackageFiles": [
