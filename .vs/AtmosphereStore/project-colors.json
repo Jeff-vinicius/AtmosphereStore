@@ -10,7 +10,22 @@
       "ProjectGuid": "dc488677-624c-4e16-8815-b73d97ab709b",
       "DisplayName": "Atmosphere.Catalogo.API",
       "ColorIndex": 1
+    },
+    "8816b910-f0ad-4e28-9ac4-2ae946208011": {
+      "ProjectGuid": "8816b910-f0ad-4e28-9ac4-2ae946208011",
+      "DisplayName": "Atmosphere.Core",
+      "ColorIndex": 2
+    },
+    "1d03ed97-d01e-4cf5-940c-6c7ed8302577": {
+      "ProjectGuid": "1d03ed97-d01e-4cf5-940c-6c7ed8302577",
+      "DisplayName": "Atmosphere.Identidade.API",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
