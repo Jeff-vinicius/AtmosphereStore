@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Atmosphere.Identidade.API.Extensions
+namespace Atmosphere.WebAPI.Core.Identidade
 {
     public class AppSettings
     {

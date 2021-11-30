@@ -1,4 +1,5 @@
 ﻿using Atmosphere.Catalogo.API.Data;
+using Atmosphere.WebAPI.Core.Identidade;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -41,6 +42,8 @@ namespace Atmosphere.Catalogo.API.Configuration
             app.UseRouting();
 
             app.UseCors("Total");
+
+            app.UseAuthConfiguration();
 
             app.UseEndpoints(endpoints =>
             {

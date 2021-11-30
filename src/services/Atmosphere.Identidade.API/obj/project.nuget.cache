@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l2Hlry50cvPWDU9Bg62zenIzw3/1hsTXeEc+n4gjays0Fde0F80oH93D5xdXL34hcCTuiOBd9P10Fvp8s3mYUg==",
+  "dgSpecHash": "zJHk/kUVWe3VMuFS3EU/4rtl3phaZdbZ0PbevnP+3/HEeiZI0V9oO7sJ/20BDtuirCukLRRhkdmG2770VsNblQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\services\\Atmosphere.Identidade.API\\Atmosphere.Identidade.API.csproj",
   "expectedPackageFiles": [

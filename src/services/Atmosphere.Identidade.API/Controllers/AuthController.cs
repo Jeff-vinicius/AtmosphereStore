@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using Microsoft.IdentityModel.Tokens;
 using System.Linq;
 using System.Collections.Generic;
+using Atmosphere.WebAPI.Core.Identidade;
 
 namespace Atmosphere.Identidade.API.Controllers
 {
