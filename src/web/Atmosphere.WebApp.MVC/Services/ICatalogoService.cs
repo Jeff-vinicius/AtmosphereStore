@@ -1,4 +1,5 @@
 ﻿using Atmosphere.WebApp.MVC.Models;
+using Refit;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -13,10 +14,10 @@ namespace Atmosphere.WebApp.MVC.Services
 
     public interface ICatalogoServiceRefit
     {
-        //[Get("/catalogo/produtos/")]
+        [Get("/catalogo/produtos/")]
         Task<IEnumerable<ProdutoViewModel>> ObterTodos();
 
-        //[Get("/catalogo/produtos/{id}")]
+        [Get("/catalogo/produtos/{id}")]
         Task<ProdutoViewModel> ObterPorId(Guid id);
     }
 }
