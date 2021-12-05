@@ -15,5 +15,5 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\obj\Debug\netcore
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\obj\Debug\netcoreapp3.1\Atmosphere.Pedido.API.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\obj\Debug\netcoreapp3.1\Atmosphere.Pedido.API.pdb
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\obj\Debug\netcoreapp3.1\Atmosphere.Pedido.API.genruntimeconfig.cache
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\obj\Debug\netcoreapp3.1\Atmosphere.Pedido.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\obj\Debug\netcoreapp3.1\Atmosphere.Pedido.API.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pedido.API\obj\Debug\netcoreapp3.1\Atmosphere.Pedido.API.GeneratedMSBuildEditorConfig.editorconfig

@@ -360,5 +360,7 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\Index.cshtml.g.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\ProdutoDetalhe.cshtml.g.cs
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.csproj.AssemblyReference.cache
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Atmosphere.WebApp.MVC.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,10 +1,10 @@
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.deps.json
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.dll
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.pdb
-C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.csproj.AssemblyReference.cache
-C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.AssemblyInfoInputs.cache
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.AssemblyInfo.cs
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.csproj.CoreCompileInputs.cache
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.dll
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.pdb
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig

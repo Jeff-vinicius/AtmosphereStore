@@ -15,5 +15,5 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pagamento.API\obj\Debug\netc
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pagamento.API\obj\Debug\netcoreapp3.1\Atmosphere.Pagamento.API.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pagamento.API\obj\Debug\netcoreapp3.1\Atmosphere.Pagamento.API.pdb
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pagamento.API\obj\Debug\netcoreapp3.1\Atmosphere.Pagamento.API.genruntimeconfig.cache
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pagamento.API\obj\Debug\netcoreapp3.1\Atmosphere.Pagamento.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pagamento.API\obj\Debug\netcoreapp3.1\Atmosphere.Pagamento.API.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Pagamento.API\obj\Debug\netcoreapp3.1\Atmosphere.Pagamento.API.GeneratedMSBuildEditorConfig.editorconfig

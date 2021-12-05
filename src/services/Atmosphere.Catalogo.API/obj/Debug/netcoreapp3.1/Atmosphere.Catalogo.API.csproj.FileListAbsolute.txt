@@ -15,8 +15,6 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netco
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.pdb
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.genruntimeconfig.cache
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.csproj.AssemblyReference.cache
-C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\bin\Debug\netcoreapp3.1\Atmosphere.Core.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\bin\Debug\netcoreapp3.1\Atmosphere.Core.pdb
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.csproj.CopyComplete
@@ -66,3 +64,6 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\bin\Debug\netco
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.pdb
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\bin\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.StaticWebAssets.xml
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Catalogo.API\obj\Debug\netcoreapp3.1\Atmosphere.Catalogo.API.GeneratedMSBuildEditorConfig.editorconfig
