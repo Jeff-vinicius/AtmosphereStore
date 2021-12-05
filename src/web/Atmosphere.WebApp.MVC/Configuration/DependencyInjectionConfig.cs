@@ -21,20 +21,20 @@ namespace Atmosphere.WebApp.MVC.Configuration
 
             services.AddHttpClient<IAutenticacaoService, AutenticacaoService>();
 
-            services.AddHttpClient<ICatalogoService, CatalogoService>()
-                .AddHttpMessageHandler<HttpClientAutorizationDelegatingHandler>()
-                //.AddTransientHttpErrorPolicy(
-                //    p => p.WaitAndRetryAsync(3, _ => TimeSpan.FromMilliseconds(600)));
-                .AddPolicyHandler(PollyExtensions.EsperarTentar())
-                .AddTransientHttpErrorPolicy(
-                    p => p.CircuitBreakerAsync(5, TimeSpan.FromSeconds(30)));
+            //services.AddHttpClient<ICatalogoService, CatalogoService>()
+            //    .AddHttpMessageHandler<HttpClientAutorizationDelegatingHandler>()
+            //    //.AddTransientHttpErrorPolicy(
+            //    //    p => p.WaitAndRetryAsync(3, _ => TimeSpan.FromMilliseconds(600)));
+            //    .AddPolicyHandler(PollyExtensions.EsperarTentar())
+            //    .AddTransientHttpErrorPolicy(
+            //        p => p.CircuitBreakerAsync(5, TimeSpan.FromSeconds(30)));
 
-            //services.AddHttpClient("Refit", options =>
-            //    {
-            //        options.BaseAddress = new Uri(configuration.GetSection("CatalogoUrl").Value);
-            //    })
-            //.AddHttpMessageHandler<HttpClientAutorizationDelegatingHandler>()
-            //.AddTypedClient(Refit.RestService.For<ICatalogoServiceRefit>);
+            services.AddHttpClient("Refit", options =>
+                {
+                    options.BaseAddress = new Uri(configuration.GetSection("CatalogoUrl").Value);
+                })
+            .AddHttpMessageHandler<HttpClientAutorizationDelegatingHandler>()
+            .AddTypedClient(Refit.RestService.For<ICatalogoServiceRefit>);
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<IUser, AspNetUser>();
