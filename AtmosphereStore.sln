@@ -45,7 +45,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atmosphere.Pedido.API", "sr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{9741B028-F657-460F-B0DB-E033E15C72E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atmosphere.WebAPI.Core", "src\building blocks\Atmosphere.WebAPI.Core\Atmosphere.WebAPI.Core.csproj", "{B7E85257-024C-4823-8B75-85B5CE8A44B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atmosphere.WebAPI.Core", "src\building blocks\Atmosphere.WebAPI.Core\Atmosphere.WebAPI.Core.csproj", "{B7E85257-024C-4823-8B75-85B5CE8A44B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

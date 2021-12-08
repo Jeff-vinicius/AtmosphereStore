@@ -30,7 +30,12 @@
       "ProjectGuid": "b7e85257-024c-4823-8b75-85b5ce8a44b7",
       "DisplayName": "Atmosphere.WebAPI.Core",
       "ColorIndex": 4
+    },
+    "45cc273d-0c7e-49b7-b8b0-733b12e6830c": {
+      "ProjectGuid": "45cc273d-0c7e-49b7-b8b0-733b12e6830c",
+      "DisplayName": "Atmosphere.Cliente.API",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

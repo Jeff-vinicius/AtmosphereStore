@@ -8,6 +8,16 @@
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
+      },
+      "Atmosphere.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Atmosphere.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Atmosphere.Core.dll": {}
+        }
       }
     }
   },
@@ -75,10 +85,16 @@
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
       ]
+    },
+    "Atmosphere.Core/1.0.0": {
+      "type": "project",
+      "path": "../../building blocks/Atmosphere.Core/Atmosphere.Core.csproj",
+      "msbuildProject": "../../building blocks/Atmosphere.Core/Atmosphere.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Atmosphere.Core >= 1.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.9"
     ]
   },
@@ -113,7 +129,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj": {
+              "projectPath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
