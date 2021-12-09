@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L+1W9Q8v6m6BPcAU/3Tpkjf0fXj9V8hbf7GftfkENMuXsAJCTNbFK5DaxpOPxxpqCfeaVlKHWW4uOZi/RM98ZA==",
+  "dgSpecHash": "aHIBRaD99MiAzU3kyE4NGtS1VUktu+c3T86LWItnh38XEZArZdnTfl/KYTrdbwW9G2+NRQ0TB8U01xabM/30ow==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\services\\Atmosphere.Cliente.API\\Atmosphere.Clientes.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeff_\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.3\\microsoft.aspnetcore.authentication.jwtbearer.3.1.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

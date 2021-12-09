@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Atmosphere.Clientes.API.Configuration;
 using Atmosphere.WebAPI.Core.Identidade;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -43,7 +44,7 @@ namespace Atmosphere.Cliente.API
 
             services.AddSwaggerConfiguration();
 
-            //services.AddMediatR(typeof(Startup));
+            services.AddMediatR(typeof(Startup));
 
             services.RegisterServices();
         }

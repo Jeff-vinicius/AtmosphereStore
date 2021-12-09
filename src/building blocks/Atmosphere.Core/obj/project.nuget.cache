@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "alW/oJbRxP+Afxzj8LIJvuwh3HhbVWhMumIRqsWCkppzGjwtDb1pFEL0CbpS+ayonCctmEO2D+hl+mXJ0Qz/WQ==",
+  "dgSpecHash": "tbdRvJJFXvYXy6Lz85OoWIoxzMqqkRtDOg+zKTacHaaWXn84znp2p2nwaoxmz34skMT+Zk1m/kNwW90gUJvCUg==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeff_\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
   ],
   "logs": []
