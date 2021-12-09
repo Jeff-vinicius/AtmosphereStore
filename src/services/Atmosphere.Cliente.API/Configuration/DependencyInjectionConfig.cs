@@ -1,5 +1,7 @@
 ﻿using Atmosphere.Clientes.API.Application.Commands;
 using Atmosphere.Clientes.API.Data.Mapping;
+using Atmosphere.Clientes.API.Data.Repository;
+using Atmosphere.Clientes.API.Models;
 using Atmosphere.Core.Mediator;
 using FluentValidation.Results;
 using MediatR;
@@ -14,6 +16,7 @@ namespace Atmosphere.Clientes.API.Configuration
             services.AddScoped<IMediatorHandler, MediatorHandler>();
             services.AddScoped<IRequestHandler<RegistrarClienteCommand, ValidationResult>, ClienteCommandHandler>();
 
+            services.AddScoped<IClienteRepository, ClienteRepository>();
             services.AddScoped<ClientesContext>();
         }
     }
