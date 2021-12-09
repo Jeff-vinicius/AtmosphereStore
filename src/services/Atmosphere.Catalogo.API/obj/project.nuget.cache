@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I9+bdocXZ/dok7ICuWmsuiCcNENcv6Z3SyeKkyky5r7msIEzYgFKpEYPM/dR4C+32eSZ70u7OVH7qXiUf76FXg==",
+  "dgSpecHash": "v7x5vQeqj2lPeQirpcR6xxbngjvj5yDpfxXrSFPk/VGnWE8GTyGY5hslbVYRt7CAfujl384Y87f5BkM5OFfvlQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\services\\Atmosphere.Catalogo.API\\Atmosphere.Catalogo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jeff_\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.3\\microsoft.aspnetcore.authentication.jwtbearer.3.1.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
