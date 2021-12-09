@@ -37,7 +37,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atmosphere.Carrinho.API", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atmosphere.Catalogo.API", "src\services\Atmosphere.Catalogo.API\Atmosphere.Catalogo.API.csproj", "{DC488677-624C-4E16-8815-B73D97AB709B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atmosphere.Cliente.API", "src\services\Atmosphere.Cliente.API\Atmosphere.Cliente.API.csproj", "{45CC273D-0C7E-49B7-B8B0-733B12E6830C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atmosphere.Clientes.API", "src\services\Atmosphere.Cliente.API\Atmosphere.Clientes.API.csproj", "{45CC273D-0C7E-49B7-B8B0-733B12E6830C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atmosphere.Pagamento.API", "src\services\Atmosphere.Pagamento.API\Atmosphere.Pagamento.API.csproj", "{4F9384A0-132C-4270-AE6A-7ECF7874B5A2}"
 EndProject

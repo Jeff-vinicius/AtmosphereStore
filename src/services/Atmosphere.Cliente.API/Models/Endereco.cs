@@ -1,7 +1,7 @@
 ﻿using Atmosphere.Core.DomainObjects;
 using System;
 
-namespace Atmosphere.Cliente.API.Models
+namespace Atmosphere.Clientes.API.Models
 {
     public class Endereco : Entity
     {
@@ -15,7 +15,7 @@ namespace Atmosphere.Cliente.API.Models
         public Guid ClienteId { get; private set; }
 
         // EF Relation
-        public Cliente Cliente { get; protected set; }
+        public Client Cliente { get; protected set; }
 
         public Endereco(string logradouro, string numero, string complemento, string bairro, string cep, string cidade, string estado)
         {
