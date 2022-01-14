@@ -1,4 +1,5 @@
-﻿using Atmosphere.Clientes.API.Models;
+﻿using Atmosphere.Clientes.API.Application.Events;
+using Atmosphere.Clientes.API.Models;
 using Atmosphere.Core.Messages;
 using FluentValidation.Results;
 using MediatR;
@@ -32,6 +33,8 @@ namespace Atmosphere.Clientes.API.Application.Commands
             }
 
             _clienteRepository.Adicionar(cliente);
+
+            cliente.AdicionarEvento(new ClienteRegistradoEvent(message.Id, message.Nome, message.Email, message.Cpf));
 
             return await PersistirDados(_clienteRepository.UnitOfWork);
         }
