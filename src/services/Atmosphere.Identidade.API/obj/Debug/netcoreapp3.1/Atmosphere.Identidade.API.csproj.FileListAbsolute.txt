@@ -76,3 +76,4 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\net
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.pdb
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.csproj.AssemblyReference.cache
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\obj\Debug\netcoreapp3.1\Atmosphere.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\FluentValidation.dll

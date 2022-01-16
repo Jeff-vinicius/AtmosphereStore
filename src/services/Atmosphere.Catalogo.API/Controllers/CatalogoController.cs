@@ -1,4 +1,5 @@
 ﻿using Atmosphere.Catalogo.API.Models;
+using Atmosphere.WebAPI.Core.Controllers;
 using Atmosphere.WebAPI.Core.Identidade;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -8,9 +9,8 @@ using System.Threading.Tasks;
 
 namespace Atmosphere.Catalogo.API.Controllers
 {
-    [ApiController]
     [Authorize]
-    public class CatalogoController
+    public class CatalogoController : MainController
     {
         private readonly IProdutoRepository _produtoRepository;
 

@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Atmosphere.Clientes.API.Models;
 using Atmosphere.Core.Mediator;
 using Atmosphere.Core.DomainObjects;
+using Atmosphere.Core.Messages;
+using FluentValidation.Results;
 
 namespace Atmosphere.Clientes.API.Data.Mapping
 {
@@ -25,6 +27,9 @@ namespace Atmosphere.Clientes.API.Data.Mapping
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Ignore<ValidationResult>();
+            modelBuilder.Ignore<Event>();
+
             foreach (var property in modelBuilder.Model.GetEntityTypes().SelectMany(
                 e => e.GetProperties().Where(p => p.ClrType == typeof(string))))
                 property.SetColumnType("varchar(100)");

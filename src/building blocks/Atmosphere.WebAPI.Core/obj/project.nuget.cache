@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1fDGQvkhG9hVbXHlp7pUQpFOVZuGQbJ5Z6tffLzyNqOfGo7pYr1ihhBf9hmv3Ai6EAF781GE/+NnV4tz9ZqoMw==",
+  "dgSpecHash": "kkxR7GozcIHaKuo1wIBi6QwksodI0pHnoER21R/PIFn9hkmyUFdRA+NhsoLCD6KPOSalTGJmYLux5iLcnb2khA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.WebAPI.Core\\Atmosphere.WebAPI.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jeff_\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.3\\microsoft.aspnetcore.authentication.jwtbearer.3.1.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
@@ -18,6 +19,7 @@
     "C:\\Users\\jeff_\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\system.componentmodel.primitives\\4.3.0\\system.componentmodel.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
