@@ -39,7 +39,7 @@ namespace Atmosphere.WebApp.MVC.Extensions
         }
     }
 
-    public class CpfValidationAttributeAdapterProvider : IValidationAttributeAdapterProvider
+    public class CpfValidationAttributeAdapterProvider                             : IValidationAttributeAdapterProvider
     {
         private readonly IValidationAttributeAdapterProvider _baseProvider = new ValidationAttributeAdapterProvider();
 
