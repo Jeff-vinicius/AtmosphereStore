@@ -69,3 +69,6 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Cliente.API\obj\Debug\netcor
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Cliente.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Cliente.API\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Cliente.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Cliente.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Cliente.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Cliente.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll

@@ -3,6 +3,7 @@ using Atmosphere.Clientes.API.Application.Events;
 using Atmosphere.Clientes.API.Data.Mapping;
 using Atmosphere.Clientes.API.Data.Repository;
 using Atmosphere.Clientes.API.Models;
+using Atmosphere.Clientes.API.Services;
 using Atmosphere.Core.Mediator;
 using FluentValidation.Results;
 using MediatR;
@@ -21,6 +22,8 @@ namespace Atmosphere.Clientes.API.Configuration
 
             services.AddScoped<IClienteRepository, ClienteRepository>();
             services.AddScoped<ClientesContext>();
+
+            services.AddHostedService<RegistroClienteIntegrationHandler>();
         }
     }
 }
