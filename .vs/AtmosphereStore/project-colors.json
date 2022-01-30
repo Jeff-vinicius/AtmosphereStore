@@ -35,7 +35,12 @@
       "ProjectGuid": "45cc273d-0c7e-49b7-b8b0-733b12e6830c",
       "DisplayName": "Atmosphere.Clientes.API",
       "ColorIndex": 5
+    },
+    "2b4ffe5a-18d7-498b-93d0-a65cea0a81ec": {
+      "ProjectGuid": "2b4ffe5a-18d7-498b-93d0-a65cea0a81ec",
+      "DisplayName": "Atmosphere.MessageBus",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

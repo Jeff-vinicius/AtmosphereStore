@@ -1,0 +1,13 @@
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\bin\Debug\netcoreapp3.1\Atmosphere.MessageBus.deps.json
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\bin\Debug\netcoreapp3.1\Atmosphere.MessageBus.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\bin\Debug\netcoreapp3.1\Atmosphere.MessageBus.pdb
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\bin\Debug\netcoreapp3.1\Atmosphere.Core.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\bin\Debug\netcoreapp3.1\Atmosphere.Core.pdb
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.csproj.AssemblyReference.cache
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.AssemblyInfoInputs.cache
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.AssemblyInfo.cs
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.csproj.CoreCompileInputs.cache
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.csproj.CopyComplete
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.MessageBus\obj\Debug\netcoreapp3.1\Atmosphere.MessageBus.pdb

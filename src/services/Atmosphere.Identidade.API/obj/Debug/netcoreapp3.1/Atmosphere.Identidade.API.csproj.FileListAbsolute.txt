@@ -83,3 +83,7 @@ C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\net
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\Atmosphere.Core.dll
 C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\Atmosphere.Core.pdb
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\Atmosphere.MessageBus.dll
+C:\Projetos\AtmosphereStore\src\services\Atmosphere.Identidade.API\bin\Debug\netcoreapp3.1\Atmosphere.MessageBus.pdb

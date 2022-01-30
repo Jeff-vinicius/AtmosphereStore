@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "tbdRvJJFXvYXy6Lz85OoWIoxzMqqkRtDOg+zKTacHaaWXn84znp2p2nwaoxmz34skMT+Zk1m/kNwW90gUJvCUg==",
+  "dgSpecHash": "bjfhSHHijsTcSUGihzvVbfhj2YvDBhL0s2KTtqKS6e+23RK6DENYTWiZwut45krUfoWPLThFoMHcaRwSyTd7jw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeff_\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
-    "C:\\Users\\jeff_\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
