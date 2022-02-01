@@ -284,4 +284,5 @@ build/
 ### Custom bin ###
 #Force to remove a file
 #git rm --cached public/app/template.js
-
+/src/building blocks/Atmosphere.WebAPI.Core/obj
+/src/services/Atmosphere.Cliente.API/obj
