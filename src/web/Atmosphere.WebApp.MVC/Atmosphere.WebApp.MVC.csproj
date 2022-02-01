@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\building blocks\Atmosphere.Core\Atmosphere.Core.csproj" />
+    <ProjectReference Include="..\..\building blocks\Atmosphere.WebAPI.Core\Atmosphere.WebAPI.Core.csproj" />
   </ItemGroup>
 
 </Project>

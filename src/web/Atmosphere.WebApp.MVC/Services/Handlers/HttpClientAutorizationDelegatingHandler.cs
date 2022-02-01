@@ -1,4 +1,4 @@
-﻿using Atmosphere.WebApp.MVC.Extensions;
+﻿using Atmosphere.WebAPI.Core.Usuario;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -9,9 +9,9 @@ namespace Atmosphere.WebApp.MVC.Services.Handlers
 {
     public class HttpClientAutorizationDelegatingHandler : DelegatingHandler
     {
-        private readonly IUser _user;
+        private readonly IAspNetUser _user;
 
-        public HttpClientAutorizationDelegatingHandler(IUser user)
+        public HttpClientAutorizationDelegatingHandler(IAspNetUser user)
         {
             _user = user;
         }

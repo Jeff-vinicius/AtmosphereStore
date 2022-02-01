@@ -11,6 +11,7 @@ using Polly.Extensions.Http;
 using Polly.Retry;
 using System.Net.Http;
 using Microsoft.AspNetCore.Mvc.DataAnnotations;
+using Atmosphere.WebAPI.Core.Usuario;
 
 namespace Atmosphere.WebApp.MVC.Configuration
 {
@@ -40,7 +41,7 @@ namespace Atmosphere.WebApp.MVC.Configuration
             .AddTypedClient(Refit.RestService.For<ICatalogoServiceRefit>);
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-            services.AddScoped<IUser, AspNetUser>();
+            services.AddScoped<IAspNetUser, AspNetUser>();
         }
     }
 

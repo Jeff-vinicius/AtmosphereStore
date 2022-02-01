@@ -373,3 +373,5 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.Core.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.Core.pdb
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.dll
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.pdb

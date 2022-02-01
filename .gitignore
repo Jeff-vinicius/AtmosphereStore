@@ -286,3 +286,4 @@ build/
 #git rm --cached public/app/template.js
 /src/building blocks/Atmosphere.WebAPI.Core/obj
 /src/services/Atmosphere.Cliente.API/obj
+/src/services/Atmosphere.Carrinho.API/obj

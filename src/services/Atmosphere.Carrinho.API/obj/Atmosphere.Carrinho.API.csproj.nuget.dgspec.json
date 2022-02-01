@@ -272,6 +272,9 @@
             "projectReferences": {
               "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj": {
                 "projectPath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.Core\\Atmosphere.Core.csproj"
+              },
+              "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.WebAPI.Core\\Atmosphere.WebAPI.Core.csproj": {
+                "projectPath": "C:\\Projetos\\AtmosphereStore\\src\\building blocks\\Atmosphere.WebAPI.Core\\Atmosphere.WebAPI.Core.csproj"
               }
             }
           }
