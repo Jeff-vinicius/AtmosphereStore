@@ -287,3 +287,13 @@ build/
 /src/building blocks/Atmosphere.WebAPI.Core/obj
 /src/services/Atmosphere.Cliente.API/obj
 /src/services/Atmosphere.Carrinho.API/obj
+/src/services/Atmosphere.Catalogo.API/obj
+/src/services/Atmosphere.Identidade.API/obj
+/src/services/Atmosphere.Pagamento.API/obj
+/src/services/Atmosphere.Pedido.API/obj
+/src/services/Atmosphere.Cliente.API/obj/Debug/netcoreapp3.1
+/src/services/Atmosphere.Carrinho.API/obj/Debug/netcoreapp3.1
+/src/services/Atmosphere.Catalogo.API/obj/Debug/netcoreapp3.1
+/src/services/Atmosphere.Identidade.API/obj/Debug/netcoreapp3.1
+/src/services/Atmosphere.Pagamento.API/obj/Debug/netcoreapp3.1
+/src/services/Atmosphere.Pedido.API/obj/Debug/netcoreapp3.1

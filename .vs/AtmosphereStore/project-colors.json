@@ -40,7 +40,12 @@
       "ProjectGuid": "2b4ffe5a-18d7-498b-93d0-a65cea0a81ec",
       "DisplayName": "Atmosphere.MessageBus",
       "ColorIndex": 6
+    },
+    "76ed0115-563f-45a2-a88f-0d7f8155363e": {
+      "ProjectGuid": "76ed0115-563f-45a2-a88f-0d7f8155363e",
+      "DisplayName": "Atmosphere.Carrinho.API",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
