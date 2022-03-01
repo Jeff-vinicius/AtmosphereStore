@@ -375,3 +375,5 @@ C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.dll
 C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\bin\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.pdb
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs

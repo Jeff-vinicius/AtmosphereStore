@@ -3,6 +3,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using Atmosphere.WebApp.MVC.Extensions;
+using Atmosphere.WebApp.MVC.Models;
 
 namespace Atmosphere.WebApp.MVC.Services
 {
@@ -42,6 +43,11 @@ namespace Atmosphere.WebApp.MVC.Services
 
             response.EnsureSuccessStatusCode();
             return true;
+        }
+
+        protected ResponseResult RetornoOk()
+        {
+            return new ResponseResult();
         }
     }
 }

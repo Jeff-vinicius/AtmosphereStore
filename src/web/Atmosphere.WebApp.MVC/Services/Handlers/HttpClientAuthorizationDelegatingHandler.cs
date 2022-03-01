@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Atmosphere.WebApp.MVC.Services.Handlers
 {
-    public class HttpClientAutorizationDelegatingHandler : DelegatingHandler
+    public class HttpClientAuthorizationDelegatingHandler : DelegatingHandler
     {
         private readonly IAspNetUser _user;
 
-        public HttpClientAutorizationDelegatingHandler(IAspNetUser user)
+        public HttpClientAuthorizationDelegatingHandler(IAspNetUser user)
         {
             _user = user;
         }
