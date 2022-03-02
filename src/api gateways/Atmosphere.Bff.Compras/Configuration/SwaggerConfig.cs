@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using System;
 
-namespace Atmosphere.Carrinho.API.Configuration
+namespace Atmosphere.Bff.Compras.Configuration
 {
     public static class SwaggerConfig
     {
@@ -13,8 +13,8 @@ namespace Atmosphere.Carrinho.API.Configuration
             {
                 c.SwaggerDoc("v1", new OpenApiInfo()
                 {
-                    Title = "Atmosphere Store Carrinho API",
-                    Description = "API de Carrinho da Atmosphere Store",
+                    Title = "Atmosphere Store Compras BFF API Gateway",
+                    Description = "API de Compras da Atmosphere Store",
                     Contact = new OpenApiContact() { Name = "Jefferson Vinicius", Email = "jeffersonshady10@gmail.com" },
                     License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/licenses/MIT") }
                 });

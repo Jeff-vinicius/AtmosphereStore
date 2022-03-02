@@ -45,7 +45,17 @@
       "ProjectGuid": "76ed0115-563f-45a2-a88f-0d7f8155363e",
       "DisplayName": "Atmosphere.Carrinho.API",
       "ColorIndex": 7
+    },
+    "7fad2bd2-d6bc-48e6-8e97-aa1367a79575": {
+      "ProjectGuid": "7fad2bd2-d6bc-48e6-8e97-aa1367a79575",
+      "DisplayName": "Atmosphere.Bff.Compras",
+      "ColorIndex": 8
+    },
+    "1f759de1-9f8c-4df3-ad85-4ab2ab0c04c4": {
+      "ProjectGuid": "1f759de1-9f8c-4df3-ad85-4ab2ab0c04c4",
+      "DisplayName": "Atmosphere.Bff.Compras",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }
