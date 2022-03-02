@@ -2,8 +2,8 @@
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Atmosphere.Core.Communication;
 using Atmosphere.WebApp.MVC.Extensions;
-using Atmosphere.WebApp.MVC.Models;
 
 namespace Atmosphere.WebApp.MVC.Services
 {

@@ -1,4 +1,5 @@
-﻿using Atmosphere.WebApp.MVC.Extensions;
+﻿using Atmosphere.Core.Communication;
+using Atmosphere.WebApp.MVC.Extensions;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;

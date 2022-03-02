@@ -1,4 +1,5 @@
-﻿using Atmosphere.WebApp.MVC.Extensions;
+﻿using Atmosphere.Core.Communication;
+using Atmosphere.WebApp.MVC.Extensions;
 using Atmosphere.WebApp.MVC.Models;
 using Microsoft.Extensions.Options;
 using System;

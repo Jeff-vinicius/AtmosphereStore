@@ -8,3 +8,6 @@ C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.pdb
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.csproj.AssemblyReference.cache
 C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\bin\Debug\netcoreapp3.1\Atmosphere.Core.dll
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\bin\Debug\netcoreapp3.1\Atmosphere.Core.pdb
+C:\Projetos\AtmosphereStore\src\building blocks\Atmosphere.WebAPI.Core\obj\Debug\netcoreapp3.1\Atmosphere.WebAPI.Core.csproj.CopyComplete

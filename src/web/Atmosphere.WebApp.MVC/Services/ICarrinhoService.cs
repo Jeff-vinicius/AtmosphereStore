@@ -1,4 +1,5 @@
-﻿using Atmosphere.WebApp.MVC.Models;
+﻿using Atmosphere.Core.Communication;
+using Atmosphere.WebApp.MVC.Models;
 using System;
 using System.Threading.Tasks;
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GdPkjLbOtz7wkIn5WjN1EsiM7ZWkbX17EvY2f5b2alpymU2nCjU0j25x3D+/t1/TwFpzIZeWJMIOH/UFy09jSQ==",
+  "dgSpecHash": "NbO52m7BzrZWOeF46mjkBbU1n59a3lA+uDtzpiFdwl+2TLne5GqdvC/MPsOot0uiF89vVp2fGhNHvFuUSNCWjw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AtmosphereStore\\src\\services\\Atmosphere.Identidade.API\\Atmosphere.Identidade.API.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,8 @@
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.3\\microsoft.extensions.fileproviders.embedded.3.1.3.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.http\\3.1.3\\microsoft.extensions.http.3.1.3.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.3\\microsoft.extensions.http.polly.3.1.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.3\\microsoft.extensions.identity.core.3.1.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.3\\microsoft.extensions.identity.stores.3.1.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
@@ -52,6 +54,7 @@
     "C:\\Users\\jeff_\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\jeff_\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\jeff_\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

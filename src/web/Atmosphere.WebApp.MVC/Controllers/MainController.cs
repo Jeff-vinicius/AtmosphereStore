@@ -1,9 +1,6 @@
-﻿using Atmosphere.WebApp.MVC.Models;
+﻿using Atmosphere.Core.Communication;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace Atmosphere.WebApp.MVC.Controllers
 {

@@ -1,4 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="_content/Atmosphere.WebApp.MVC" Path="/src//src/web/Atmosphere.WebApp.MVC/wwwroot/" />
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Atmosphere.WebApp.MVC" Path="C:\Projetos\AtmosphereStore\src\web\Atmosphere.WebApp.MVC\wwwroot\" />
 </StaticWebAssets>
